@@ -53,7 +53,7 @@ a {
   position: absolute;
 }
 
-.header-menu ahover:after {
+.header-menu a:hover:after {
   width: 100%;
 }
 
